@@ -33,7 +33,6 @@ src/context/UnicornContext.jsx
 Busca la línea **19** y reemplaza el endpoint viejo por uno nuevo que obtendrás en la página [https://crudcrud.com/](https://crudcrud.com/).
 
 ```js
-// CAMBIAR LA PARTE DE "608c7262bd6843468f2e61c939c93093" POR EL ENDPOINT GENERADO EN CRUDCRUD EN SU PROPIO NAVEGADOR (RECOMIENDO USAR PÁGINA DE INCOGNITO PARA EVITAR ERRORES)
 const APIFetch = "https://crudcrud.com/api/TU_NUEVO_ENDPOINT/unicorns";
 ```
 
