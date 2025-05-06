@@ -13,7 +13,7 @@ git clone https://github.com/MarcosAyrton/Unicornios-axios-PDF.git
 2. **Entrar a la carpeta del proyecto**
 
 ```bash
-cd tu_repositorio
+cd Unicornios-axios-PDF
 ```
 
 3. **Instalar las dependencias**
